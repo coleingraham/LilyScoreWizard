@@ -1,0 +1,13 @@
+title: Test Score
+subtitle: sub
+composer: Cole D. Ingraham
+include: book-titling.ily
+include: promethean.ly
+paper: system-separator-markup = \slashSeparator
+paper: ragged-bottom=##f
+paper: ragged-last-bottom=##f
+paper: print-page-number=##f
+part: Violin I
+part: Violin II
+part: Viola
+part: Cello
